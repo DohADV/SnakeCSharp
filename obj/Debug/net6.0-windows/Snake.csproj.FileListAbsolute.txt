@@ -1,0 +1,17 @@
+C:\Users\ghita\source\repos\Snake\bin\Debug\net6.0-windows\Snake.exe
+C:\Users\ghita\source\repos\Snake\bin\Debug\net6.0-windows\Snake.deps.json
+C:\Users\ghita\source\repos\Snake\bin\Debug\net6.0-windows\Snake.runtimeconfig.json
+C:\Users\ghita\source\repos\Snake\bin\Debug\net6.0-windows\Snake.dll
+C:\Users\ghita\source\repos\Snake\bin\Debug\net6.0-windows\ref\Snake.dll
+C:\Users\ghita\source\repos\Snake\bin\Debug\net6.0-windows\Snake.pdb
+C:\Users\ghita\source\repos\Snake\obj\Debug\net6.0-windows\Snake.csproj.AssemblyReference.cache
+C:\Users\ghita\source\repos\Snake\obj\Debug\net6.0-windows\Snake.Form1.resources
+C:\Users\ghita\source\repos\Snake\obj\Debug\net6.0-windows\Snake.csproj.GenerateResource.cache
+C:\Users\ghita\source\repos\Snake\obj\Debug\net6.0-windows\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghita\source\repos\Snake\obj\Debug\net6.0-windows\Snake.AssemblyInfoInputs.cache
+C:\Users\ghita\source\repos\Snake\obj\Debug\net6.0-windows\Snake.AssemblyInfo.cs
+C:\Users\ghita\source\repos\Snake\obj\Debug\net6.0-windows\Snake.csproj.CoreCompileInputs.cache
+C:\Users\ghita\source\repos\Snake\obj\Debug\net6.0-windows\Snake.dll
+C:\Users\ghita\source\repos\Snake\obj\Debug\net6.0-windows\ref\Snake.dll
+C:\Users\ghita\source\repos\Snake\obj\Debug\net6.0-windows\Snake.pdb
+C:\Users\ghita\source\repos\Snake\obj\Debug\net6.0-windows\Snake.genruntimeconfig.cache
